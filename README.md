@@ -2,8 +2,6 @@
 
 > Sample VueJS app that uses Cordova capabilities
 
-![Demo screenshot](demo.png)
-
 ## Build Setup
 
 ```bash
@@ -28,14 +26,17 @@ Run the command :
 ```sh
 npm run build
 cd cordova_app
-cordova platform add android
-cordova run # or build
+cordova platform add <platform>  # android or ios
+cordova run <platform> # or build
 ```
 
-## Next Cordova build
+## Next Cordova run/build commands
 
 ```sh
-npm run cordova_run # or cordova_build
+npm run android 
+npm run android build
+npm run ios 
+npm run ios build 
 ```
 
 ## Plugins
