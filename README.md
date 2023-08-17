@@ -2,6 +2,9 @@
 
 > Sample VueJS app that uses Cordova capabilities
 
+![](/Users/dusanrandelovic/Desktop/vuejs-cordova-sample/ios.png)
+
+
 ## Build Setup
 
 ```bash
@@ -20,8 +23,6 @@ npm run build
 ```
 
 ## First Cordova build
-
-Run the command :
 
 ```sh
 npm run build

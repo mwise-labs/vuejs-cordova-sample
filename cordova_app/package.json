@@ -37,8 +37,11 @@
             }
         },
         "platforms": [
-            "android"
+            "android",
+            "ios"
         ]
     },
-    "devDependencies": {}
+    "devDependencies": {
+        "cordova-ios": "^7.0.0"
+    }
 }
